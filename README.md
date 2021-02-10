@@ -19,7 +19,7 @@ Formado em Administração de Empresas pela UnB também cursou MBA em Marketing 
 
 ## Projetos:
 
-* **Amálise do Dataser do AirBnB:**
+* **Análise do Dataser do AirBnB:**
 
 
 
