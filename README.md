@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="Capa_Linkedin.jpg" >
 </p>
 
