@@ -19,7 +19,7 @@ Formado em Administração de Empresas pela UnB também cursou MBA em Marketing 
 
 ## Projetos:
 
-* **Análise do Dataset do AirBnB:**
+* **Análise do Dataset do AirBnB:** https://github.com/mancuso68/dsnp_projetos/blob/main/Analisando_os_Dados_do_Airbnb_Sydney_Australia.ipynb
 
 
 
