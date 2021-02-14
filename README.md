@@ -13,8 +13,8 @@ Formado em Administração de Empresas pela UnB também cursou MBA em Marketing 
 
 
 **Links:**
-* [Blog](http://www.dadosnanuvem.com.br)
-* [LinkedIn](https://www.linkedin.com/in/luciano-mancuso-ti)
+* * [LinkedIn](https://www.linkedin.com/in/luciano-mancuso-ti)
+* * [Medium](https://medium.com/@luciano.mancuso)
 
 
 ## Projetos:
