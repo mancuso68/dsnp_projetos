@@ -20,6 +20,7 @@ Formado em Administração de Empresas pela UnB também cursou MBA em Marketing 
 ## Projetos:
 
 * **Análise do Dataset do AirBnB:** https://bit.ly/3jKRpjj
+* **Análise da Violência no Rio de Janeiro:** https://bit.ly/3sUpaln
 
 
 
